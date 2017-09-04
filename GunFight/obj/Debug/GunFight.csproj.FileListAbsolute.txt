@@ -1,0 +1,21 @@
+C:\Users\D_Dimitrov\Desktop\C#\C#\Projects L11\GunFight\GunFight\bin\Debug\GunFight.exe.config
+C:\Users\D_Dimitrov\Desktop\C#\C#\Projects L11\GunFight\GunFight\bin\Debug\GunFight.exe
+C:\Users\D_Dimitrov\Desktop\C#\C#\Projects L11\GunFight\GunFight\bin\Debug\GunFight.pdb
+C:\Users\D_Dimitrov\Desktop\C#\C#\Projects L11\GunFight\GunFight\obj\Debug\GunFight.csprojResolveAssemblyReference.cache
+C:\Users\D_Dimitrov\Desktop\C#\C#\Projects L11\GunFight\GunFight\obj\Debug\GunFight.exe
+C:\Users\D_Dimitrov\Desktop\C#\C#\Projects L11\GunFight\GunFight\obj\Debug\GunFight.pdb
+C:\Users\D_Dimitrov\Desktop\GunFight\GunFight\bin\Debug\GunFight.exe.config
+C:\Users\D_Dimitrov\Desktop\GunFight\GunFight\obj\Debug\GunFight.exe
+C:\Users\D_Dimitrov\Desktop\GunFight\GunFight\obj\Debug\GunFight.pdb
+C:\Users\D_Dimitrov\Desktop\GunFight\GunFight\bin\Debug\GunFight.exe
+C:\Users\D_Dimitrov\Desktop\GunFight\GunFight\bin\Debug\GunFight.pdb
+C:\Users\D_Dimitrov\Desktop\GunFight\GunFight\obj\Debug\GunFight.csprojResolveAssemblyReference.cache
+C:\Users\D_Dimitrov\Desktop\C#\GunFight\GunFight\bin\Debug\GunFight.exe.config
+C:\Users\D_Dimitrov\Desktop\C#\GunFight\GunFight\obj\Debug\GunFight.exe
+C:\Users\D_Dimitrov\Desktop\C#\GunFight\GunFight\obj\Debug\GunFight.pdb
+C:\Programing\C#\GunFight\GunFight\bin\Debug\GunFight.exe.config
+C:\Programing\C#\GunFight\GunFight\obj\Debug\GunFight.exe
+C:\Programing\C#\GunFight\GunFight\obj\Debug\GunFight.pdb
+C:\Programing\C#\GunFight\GunFight\bin\Debug\GunFight.exe
+C:\Programing\C#\GunFight\GunFight\bin\Debug\GunFight.pdb
+C:\Programing\C#\GunFight\GunFight\obj\Debug\GunFight.csprojResolveAssemblyReference.cache
